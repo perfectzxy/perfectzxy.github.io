@@ -105,18 +105,7 @@
     width: 1px;
 }
 
-#fakebox-microphone {
-    background: url( "file:///C:/Users/nice/Desktop/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1/www.kiuber.me/images/microphone_24px_1233053_easyicon.net.ico") no-repeat center;
-    background-size: 24px 24px;
-    bottom: 0;
-    cursor: pointer;
-    margin-inline-end: 12px;
-    padding: 22px 12px 0;
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 28px;
-}
+
 
 
 #fakebox-input {
